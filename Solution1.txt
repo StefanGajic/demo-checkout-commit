@@ -2,3 +2,4 @@ This is some Solution!
 Some second line
 Third like modified!
 Fourth but newwww!
+fifth to resolve conflict
